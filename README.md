@@ -32,4 +32,4 @@ Also you can use keys in hex form:
 
 For more information about options:
 
-        crypt --help
+        target/release/AEScryptor --help
